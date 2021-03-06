@@ -2,6 +2,8 @@
 
 ## "One coin to rule them all!"
 
+![](SlapDash/esc/SlapDash.png)
+
 SlapDash is an RNG based cryptocurenncy, the block mining reward is completely ranodom, you could recive 1 - 100,000.00 SlapDash Coins as a block reward.
 You can find the 100% open-source code for this project by going to the [/slapdash](https://github.com/limiteci/SlapDash/tree/main/SlapDash) folder in this repository.
 
