@@ -1,3 +1,6 @@
 # SlapDash
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+## "One coin to rule them all!"
+### (and one coin to be the worst)
+
+
