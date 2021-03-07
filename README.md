@@ -37,7 +37,7 @@ Alternatively, install `Qt Creator`_ and open the `litecoin-qt.pro` file.
 
 An executable named `litecoin-qt` will be built.
 
-.. _`Qt Creator`: http://qt.nokia.com/downloads/
+.. _`Qt Creator`: https://www.qt.io/download
 
 Windows
 --------
