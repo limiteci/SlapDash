@@ -1,4 +1,4 @@
-# SlapDash 1.0.1
+# SlapDash 1.0.1 ![](https://img.shields.io/badge/version-v1.1-green)
 
 SlapDash is an RNG based cryptocurrency, the block mining reward is completely random, you could receive 1 - 100,000.00 SlapDash Coins as a block reward or just a sinlge coin.
 You can find the 100% open-source code for this project by going to the [/slapdash](https://github.com/limiteci/SlapDash/tree/main/SlapDash) folder in this repository.
